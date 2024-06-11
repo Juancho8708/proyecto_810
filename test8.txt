@@ -1,0 +1,4 @@
+Este es un codigo de entrenamiento para que no se me
+olvide manejar git
+mientras comienzo mi
+proyecto
